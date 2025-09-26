@@ -25,5 +25,17 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwilson29/Backend-Example.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hwilson29/Backend-Example/issues"
+  },
+  "homepage": "https://github.com/hwilson29/Backend-Example#readme"
 }
